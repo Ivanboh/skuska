@@ -1,5 +1,5 @@
 <?php
 
-echo "skuska spojenia";
+echo "skuska spojenia este raz";
 
 ?>
